@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohit Kumar</h1>
-<h3 align="center">A passionate Product Test Manager from India 🇮🇳 and currently, based in Bangalore</h3>
+<h3 align="center">A passionate Product Test Manager from India 🇮🇳 and currently, based out of Bangalore</h3>
 
 - 🌱 I have expertise on **No/low code automation product, Javascript and Java**
 
