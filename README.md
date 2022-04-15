@@ -42,7 +42,7 @@
 
 <h3 align="left">CICD</h3>
 
-<a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a><a href="https://buddy.works/" target="_blank" rel="noreferrer"> <img src="https://unpkg.com/simple-icons@6.0.0/icons/buddy.svg" alt="jenkins" width="40" height="40"/> </a><a href="https://bitbucket.org/" target="_blank" rel="noreferrer">
+<a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
 
 <h3 align="left">Tools & Softwares</h3>
 
