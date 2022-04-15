@@ -15,15 +15,14 @@
 
 - 🎙️ Check my Blogs/Articles [here](https://www.linkedin.com/in/mohkumar31/recent-activity/posts/)
 
-<p align="center"> <a href="https://twitter.com/kunalashar25" target="blank"><img src="https://img.shields.io/twitter/follow/kunalashar25?logo=twitter&style=for-the-badge" alt="kunalashar25" /></a> </p>
+
 
 <h2 align="left">Connect with me</h2>
 
 <p align="left">
-<a href="https://twitter.com/kunalashar25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kunalashar25" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kunalashar25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kunalashar25" height="30" width="40" /></a>
-<a href="https://fb.com/kunal.ashar.25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kunal.ashar.25" height="30" width="40" /></a>
-<a href="https://instagram.com/kunalashar25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kunalashar25" height="30" width="40" /></a>
+<a href="https://twitter.com/kmohit31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kmohit31" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mohkumar31/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kmohit31" height="30" width="40" /></a>
+<a href="https://instagram.com/mohitkumar31/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kmohit31" height="30" width="40" /></a>
 </p>
 
 <h2 align="left">Languages and Tools</h2>
