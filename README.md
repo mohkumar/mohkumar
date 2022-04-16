@@ -34,7 +34,7 @@
 <h3 align="left">Automation</h3>
 
 <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a><a href="https://cucumber.io/" target="_blank" rel="noreferrer"> <img src="https://unpkg.com/simple-icons@6.0.0/icons/cucumber.svg" alt="mocha" width="40" height="40"/> </a>
-<a href="https://www.chaijs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/chaijs/chaijs-ar21.svg" alt="mocha" width="40" height="40"/> </a>
+<a href="https://www.chaijs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/chaijs/chaijs-icon.svg" alt="mocha" width="40" height="40"/> </a>
 
 <h3 align="left">Databases Used</h3>
 
